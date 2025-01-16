@@ -9,7 +9,6 @@
             <li><a href="index.php">HOME</a></li>
                 <li><a href="about.php">ABOUT US</a></li>
                 <li><a href="chef.php">CHEFS</a></li>
-                <li><a href="">MENU</a></li>
                 <li><a href="gallery.php">GALLERY</a></li>
                 <li><a href="contact.php">CONTACTS</a></li>
             </ul>
@@ -19,10 +18,6 @@
     <div class="chef">
         <div class="our">
             <h1>OUR BEST CHEF</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-               Omnis ut ab <br> eaque earum 
-               velit ducimus minus, perspiciatis <br>explicabo 
-               neque in ex corporis. Ratione quidem <br>quia accusamus ipsam voluptates rem.</p>
             <div class="cheff">
              <img src="inc/hilda.jpeg" style="width: 20vw; height: 45vh; margin-left: 0%;" alt="">
              <img src="inc/dammy.jpg" style="width: 20vw; height: 45vh;" alt="">

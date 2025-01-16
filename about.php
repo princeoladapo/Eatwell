@@ -13,7 +13,6 @@
                 <li><a href="index.php">HOME</a></li>
                 <li><a href="about.php">ABOUT US</a></li>
                 <li><a href="chef.php">CHEFS</a></li>
-                <li><a href="">MENU</a></li>
                 <li><a href="gallery.php">GALLERY</a></li>
                 <li><a href="contact.php">CONTACTS</a></li>
             </ul>
@@ -68,13 +67,6 @@
 </div>
 
 <div class="cand">
-  <div class="candy">
-    <h1>DOUBLE CHEESE PIZZA <br> 30% OFF FRIDAY ONLY</h1>
-    <button>BOOK A TABLE</button>
- </div>
+    <a href="order.php"><button>BOOK A TABLE</button></a>
 </div>
  
-
-<?php 
-    require_once "inc/footer.html";
-?>

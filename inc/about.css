@@ -4,7 +4,6 @@ h1, h2, h3, h4, h5, h6, a, button{
 
 header {
     display: flex;
-    /* color: yellow; */
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
@@ -12,7 +11,7 @@ header {
 
 header > a {
     text-decoration: none;
-    color: yellow;
+    color: gold;
     display: flex;
 }
 
@@ -41,18 +40,23 @@ header > nav > ul> li {
 }
 
 header > nav > ul> li > a {
-    color: yellow;
+    color: gold;
     text-decoration: none;
 }
 
-body{
+/* body{
     background-color: black;
+} */
+body{
+    background-image: url(./Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 /* ABOUT STYLE */
 .row{
     display: flex;
-    background-color: black;
+    /* background-color: black; */
     display-direction: row;
     align-items: center;
     margin-top: 100px;
@@ -74,26 +78,13 @@ body{
     margin-top: 8%;
 }
 
-.cand{
-    display: flex;
-    background-color: rgb(10, 10, 10);
-    margin-top: 5%;
-    height: 200px;
-    width: 90vw;
-    margin-left: 5%;
 
-}
-
-.candy{
-    color: white;
-    margin-left: 8%;
-}
 
 button{
-    background-color: yellow;
-    width: 45%;
-    height: 6vh;
-    margin-left: 2%;
-    margin-top: 2%;
+    background-color: gold;
+    width: 15%;
+    height: 5vh;
+    margin-left: 45%;
+    margin-top: 5%;
     border-style: none;
 }

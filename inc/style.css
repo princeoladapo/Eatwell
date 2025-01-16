@@ -17,7 +17,7 @@ header {
 
 header > a {
     text-decoration: none;
-    color: yellow;
+    color: gold;
     display: flex;
 }
 
@@ -46,7 +46,7 @@ header > nav > ul> li {
 }
 
 header > nav > ul> li > a {
-    color: yellow;
+    color: gold;
     text-decoration: none;
 }
 
@@ -76,7 +76,7 @@ div > p {
 }
 
 button{
-    background-color: yellow;
+    background-color: gold;
     width: 15%;
     height: 6vh;
     margin-left: 2%;
@@ -93,6 +93,6 @@ footer{
     color: white;
     height: 10vh;
     position: fixed;
-    bottom: 0;
+    bottom: 0; 
     width: 100%;
 }

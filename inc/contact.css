@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5, h6, a, button{
 
 header {
     display: flex;
-    /* color: yellow; */
+    /* color: gold; */
     justify-content: space-between;
     align-items: center;
     padding: 0 20px;
@@ -17,7 +17,7 @@ header {
 
 header > a {
     text-decoration: none;
-    color: yellow;
+    color: gold;
     display: flex;
 }
 
@@ -46,12 +46,14 @@ header > nav > ul> li {
 }
 
 header > nav > ul> li > a {
-    color: yellow;
+    color: gold;
     text-decoration: none;
 }
 
 body{
-    background-color: black;
+    background-image: url(./Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .head{
@@ -127,5 +129,5 @@ div.carry > div.con1 > p {
 }
 
 div.carry > div.con1 > h3 {
-    color: yellow;
+    color: gold;
 }
