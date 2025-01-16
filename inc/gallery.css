@@ -51,7 +51,9 @@ header > nav > ul> li > a {
 }
 
 body{
-    background-color: rgb(87, 80, 80);
+    background-image: url(./Background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .head{
@@ -72,7 +74,7 @@ div > h1 {
 }
 
 div.image{
-    margin-top: 5%;
+    margin-top: 2%;
 }
 
 div.image > div.box1 {
